@@ -1,0 +1,12 @@
+{ "learnocaml_version": "1",
+  "groups":
+  { "demo":
+    { "title": "Démonstration",
+      "exercises": [ "bst", "random_access_lists" ]
+    },
+    "tp":
+    { "title": "Travaux pratiques",
+      "exercises": [ "mine" ]
+    }
+  }
+}
