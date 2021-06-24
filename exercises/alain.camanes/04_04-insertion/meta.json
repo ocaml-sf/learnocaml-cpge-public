@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 4: Tri par insertion",
+    "short_description": "Où l'on implémente un tri souvent utilisé par les joueurs de cartes"
+}

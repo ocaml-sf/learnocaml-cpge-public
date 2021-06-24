@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 7: Somme d'entiers consécutifs",
+    "short_description": "Où l'on calcule récursivement la somme des premiers entiers naturels"
+}

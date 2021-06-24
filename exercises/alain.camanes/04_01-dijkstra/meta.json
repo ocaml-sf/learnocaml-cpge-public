@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 1: Drapeau de dijkstra",
+    "short_description": "Où l'on trie rapidement un tableau ne contenant que 3 valeurs distinctes"
+}

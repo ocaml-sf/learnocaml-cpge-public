@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 2: Norme d'un vecteur",
+    "short_description": "Où l'on implémente la norme euclidienne"
+}

@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 1 : Listes : Tri insertion",
+    "short_description": "Où l'on implémente le tri fusion sur les listes."
+}

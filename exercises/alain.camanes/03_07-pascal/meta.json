@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 7: Triangle de Pascal",
+    "short_description": "Où l'on renvoie le tableau contenant les coefficients binomiaux"
+}

@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 3: Test de rangement",
+    "short_description": "Où l'on teste si les éléments d'un tableau sont triés par ordre croissant"
+}
