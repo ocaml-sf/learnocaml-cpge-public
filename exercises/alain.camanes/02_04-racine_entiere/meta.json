@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 4: Racine carrée entière",
+    "short_description": "Où l'on calcule la racine carrée entière sans utiliser les flottants"
+}

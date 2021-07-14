@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 2: Maximum",
+    "short_description": "Où l'on renvoie la valeur maximale atteinte par les éléments d'un tableau"
+}

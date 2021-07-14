@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 1: Un nouveau type entiers",
+    "short_description": "Où on redéfinit l'addition entre entiers"
+}

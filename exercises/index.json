@@ -1,12 +1,93 @@
-{ "learnocaml_version": "1",
-  "groups":
-  { "demo":
-    { "title": "Démonstration",
-      "exercises": [ "bst", "random_access_lists" ]
-    },
-    "tp":
-    { "title": "Travaux pratiques",
-      "exercises": [ "mine" ]
+{
+    "learnocaml_version": "1",
+    "groups": {
+        "public_exo_1": {
+            "title": "Exercices I - Alain Camanes",
+            "exercises": [
+                "alain.camanes/01_01-min_3",
+                "alain.camanes/01_02-norm",
+                "alain.camanes/01_03-increase",
+                "alain.camanes/01_04-divides",
+                "alain.camanes/01_05-bissextile",
+                "alain.camanes/01_06-implication",
+                "alain.camanes/01_07-somme_entiers",
+                "alain.camanes/01_08-only_one",
+                "alain.camanes/01_09-puissance",
+                "alain.camanes/01_10-pgcd",
+                "alain.camanes/01_11-power_8",
+                "alain.camanes/01_12-nombres_premiers",
+                "alain.camanes/01_13-recherche_dichotomique",
+                "alain.camanes/01_14-tours_de_hanoi"
+            ]
+        },
+        "public_exo_2": {
+            "title": "Exercices II - Alain Camanes",
+            "exercises": [
+                "alain.camanes/02_01-somme_inverses",
+                "alain.camanes/02_02-nombres_parfaits",
+                "alain.camanes/02_03-modulo",
+                "alain.camanes/02_04-racine_entiere",
+                "alain.camanes/02_05-nombres_premiers"
+            ]
+        },
+        "public_exo_3": {
+            "title": "Exercices III - Alain Camanes",
+            "exercises": [
+                "alain.camanes/03_01-min_index",
+                "alain.camanes/03_02-maximum",
+                "alain.camanes/03_03-est_trie",
+                "alain.camanes/03_04-recherche",
+                "alain.camanes/03_05-contenu",
+                "alain.camanes/03_06-occurrences",
+                "alain.camanes/03_07-pascal",
+                "alain.camanes/03_08-classement"
+            ]
+        },
+        "public_exo_4": {
+            "title": "Exercices IV - Alain Camanes",
+            "exercises": [
+                "alain.camanes/04_01-dijkstra",
+                "alain.camanes/04_02-postier",
+                "alain.camanes/04_03-selection",
+                "alain.camanes/04_04-insertion"
+            ]
+        },
+        "public_exo_5": {
+            "title": "Exercices V - Alain Camanes",
+            "exercises": [
+                "alain.camanes/05_01-entiers",
+                "alain.camanes/05_02-nombres",
+                "alain.camanes/05_03-belote"
+            ]
+        },
+        "public_exo_6": {
+            "title": "Exercices VI - Alain Camanes",
+            "exercises": [
+                "alain.camanes/06_01-elements",
+                "alain.camanes/06_02-selectionne",
+                "alain.camanes/06_03-apparie",
+                "alain.camanes/06_04-map",
+                "alain.camanes/06_05-arithmetique"
+            ]
+        },
+        "public_exo_7": {
+            "title": "Exercices VII - Alain Camanes",
+            "exercises": [
+                "alain.camanes/07_01-tri_insertion",
+                "alain.camanes/07_02-tri_fusion",
+                "alain.camanes/07_03-tri_rapide",
+                "alain.camanes/07_04-plus_proches"
+            ]
+        },
+        "public_exo_8": {
+            "title": "Exercices VIII - Alain Camanes",
+            "exercises": [
+                "alain.camanes/08_01-cheminement",
+                "alain.camanes/08_02-parcours_en_profondeur",
+                "alain.camanes/08_03-sous_arbre",
+                "alain.camanes/08_04-parfait",
+                "alain.camanes/08_05-arbres_generaux"
+            ]
+        }
     }
-  }
 }

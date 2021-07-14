@@ -1,0 +1,7 @@
+{
+    "learnocaml_version": "1",
+    "kind": "exercise",
+    "stars": 0,
+    "title": "Exercice 1: Index du miminimum",
+    "short_description": "Où l'on renvoie le plus petit indice où le minimum est atteint"
+}
