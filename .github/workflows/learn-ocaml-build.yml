@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  build_exercises_with_learn_ocaml:
+    name: Execute learn-ocaml build
+    runs-on: ubuntu-latest
+    steps:
+       - name: Check out repository code
+         uses: actions/checkout@v2
+       - name: Use Docker image to build exercises
+         run: docker run --rm -v $(pwd):/repository -v learn-ocaml-sync:/sync ocamlsf/learn-ocaml:master build
